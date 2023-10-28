@@ -6,3 +6,5 @@
 `submission.ipynb` - Ноутук c предсказанием на тестовом датасете
 
 `EDA.ipynb` - Ноутбук с `EDA`
+
+![alt text](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/distr.png?raw=true)
