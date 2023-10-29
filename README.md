@@ -17,3 +17,4 @@
 # Train results
 
 ![third](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/photo_2023-10-29_03-03-07.jpg?raw=true)
+![four](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/photo_2023-10-29_03-04-27.jpg?raw=true)
