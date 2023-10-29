@@ -11,6 +11,10 @@
 # EDA visualization
 
 ![first](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/second_variant.png?raw=true)
+
+![first](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/image_2023-10-28_09-45-31.png?raw=true)
+![first](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/image_2023-10-28_09-46-33.png?raw=true)
+
 ![second](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/distr.png?raw=true)
 
 
