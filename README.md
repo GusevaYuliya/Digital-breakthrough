@@ -7,4 +7,6 @@
 
 `EDA.ipynb` - Ноутбук с `EDA`
 
-![alt text](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/distr.png?raw=true)
+![first](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/first_vatiant.png?raw=true)
+![second](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/distr.png?raw=true)
+![third](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/second_variant.png?raw=true)
