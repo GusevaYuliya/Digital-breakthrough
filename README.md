@@ -12,4 +12,4 @@
 
 ![first](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/second_variant.png?raw=true)
 ![second](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/distr.png?raw=true)
-![third]()
+![third](https://github.com/GusevaYuliya/Digital-breakthrough/blob/main/img/photo_2023-10-29_03-03-07.jpg?raw=true)
